@@ -67,9 +67,6 @@ public class HomePageFalabella extends BasePage {
         sleep(2000);
         this.click(botonIrAlCarro);
     }
-    public void finalizarProcesoAgregarAlCarro() throws Exception{
 
-
-    }
 
 }

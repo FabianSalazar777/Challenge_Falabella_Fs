@@ -1,0 +1,22 @@
+{
+  "name": "challenge_falabella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/FabianSalazar777/Challenge_Falabella_Fs.git)"
+  },
+  "author": "Fabián Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianSalazar777/Challenge_Falabella_Fs/issues"
+  },
+  "homepage": "https://github.com/FabianSalazar777/Challenge_Falabella_Fs#readme",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^3.2.0"
+  }
+}

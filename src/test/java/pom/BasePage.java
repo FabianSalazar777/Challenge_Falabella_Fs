@@ -78,7 +78,7 @@ public class BasePage {
     public void bajarScroll() throws Exception {
         try {
             JavascriptExecutor js = (JavascriptExecutor)driver;
-            js.executeScript("window.scroll(0,600)");
+            js.executeScript("window.scroll(0,650)");
 
         } catch (Exception e) {
             throw new Exception("No se pudo bajar el scroll " );

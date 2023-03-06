@@ -30,6 +30,7 @@ public class TestAgregarProducto extends TestBase{
         homePage.mouseHoverCategoriaCelularPlanes();
         homePage.clickOnCategoriaCelularesSmartphones();
         homePage.clickOnProducto();
+        homePage.clickOnAgregarAlCarro();
 
     }
 
