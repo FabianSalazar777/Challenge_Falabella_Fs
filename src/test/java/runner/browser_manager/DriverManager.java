@@ -2,6 +2,8 @@ package runner.browser_manager;
 
 import org.openqa.selenium.WebDriver;
 
+//metodos para la creación del driver y su cierre.
+
 public abstract class DriverManager {
 
     protected WebDriver driver;

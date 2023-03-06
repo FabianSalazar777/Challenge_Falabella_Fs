@@ -1,6 +1,8 @@
+@functional
 Feature: Buscar un producto utilizando las categorias del sitio.
   Como usuario quiero buscar un producto utilizando las categorias del sitio
 
+  @Ejecutalo
   Scenario: Seleccionar un producto utilizando las categorias del menu de falabella
     Given El usuario se encuentra en la página home de Falabella
     When Hace clic sobre el botón del menú en el home

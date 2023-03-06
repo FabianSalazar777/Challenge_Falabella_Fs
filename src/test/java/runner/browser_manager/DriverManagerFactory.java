@@ -1,5 +1,7 @@
 package runner.browser_manager;
-//manejador de navegadores
+
+//manejador de navegadores, si quisiera incorporar otros drivermanager, solo debo agregar en los case
+//y además agregarlo en los drivertype, claramente debe estar su ejecutable correspondiente a dicho navegador.
 
 public class DriverManagerFactory {
 

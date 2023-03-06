@@ -4,6 +4,8 @@ import static java.lang.Thread.sleep;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+// locators y acciones relacionadas al home de falabella
+
 public class HomePageFalabella extends BasePage {
 
 
@@ -18,12 +20,13 @@ public class HomePageFalabella extends BasePage {
     private By botonIrAlCarro = By.id("linkButton");
 
 
-
+// Instancia de la página home con Webdriver
     public HomePageFalabella(WebDriver driver) {
+
         super(driver);
     }
 
-    //acciones dentro de la páginas (métodos)
+    //acciones que se utilizarán dentro de la página home de falabella (métodos)
 
     public boolean homePageIsDisplayed() throws Exception {
         sleep(500);
@@ -48,7 +51,6 @@ public class HomePageFalabella extends BasePage {
         sleep(500);
         this.click(menuSubCategoriaCelularesSmartphones);
     }
-
 
     public void clickOnProducto() throws Exception {
         this.bajarScroll();

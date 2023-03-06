@@ -5,6 +5,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
+//Ejecución del Caso de prueba de la comparación de precios del carrito de compra para la selección de un producto.
 
 public class TestCarritoDeCompra extends TestBase{
 

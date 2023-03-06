@@ -5,6 +5,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
+//Clase para instanciar y ejecutar el chrome driver, aqui se le agregó configuraciones para ocultar las notificaciones
+//que no dejaban captar algunos elementos web.
+
 public class ChromeDriverManager extends DriverManager {
 
     @Override
