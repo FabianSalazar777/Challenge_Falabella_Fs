@@ -1,6 +1,6 @@
 # Challenge_Falabella_Fs
 Challenge Realizado para la postulación a un cargo de automatizador.
-Este proyecto está relacionado a la automatización del servicio web para ello es requisito tener instalado JAVA 8 con su jdk 1.8.0_291 para la ejecución, también contar con Git para la clonación de este proyecto, el la versión del Chrome debe ser 110.0.5481.178 de 64bits y IntelliJ IDEA Community Edition 2021.3.2.
+Este proyecto está relacionado a la automatización del servicio web para ello es requisito tener instalado JAVA 8 con su jdk 1.8.0_291 para la ejecución, también contar con Git para la clonación de este proyecto, el la versión del Chrome debe ser 110.0.5481.178 de 64bits y IntelliJ IDEA Community Edition 2021.3.2 
 
 Pasos a seguir
 1. Elige una carpeta donde realizaras la clonación del proyecto con el siguiente comando: 
@@ -14,3 +14,9 @@ Pasos a seguir
 8. La ejecución del proyecto es automatica y se genera el reporte de salida en chrome de forma automatica.
 
 Cualquier duda o consulta escribeme a fsalazargalleguillos@gmail.com y vemos como realizar el soporte.
+
+
+link programas son gratis
+https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows&code=IIC. Intellij 
+https://git-scm.com/download/win git
+
