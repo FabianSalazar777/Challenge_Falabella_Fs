@@ -14,7 +14,7 @@ public class HomePageFalabella extends BasePage {
     private By homeMenuLocator = By.cssSelector(".MarketplaceHamburgerBtn-module_title__2KG47");
     private By menuCategoriaCelularPlanesLocator = By.xpath("//div[text()='Celulares y planes']");
     private By menuSubCategoriaCelularesSmartphones = By.xpath("//a[text()='Smartphones']");
-    private By celularSeleccionLocator = By.id("testId-pod-displaySubTitle-prod24342591");
+    private By celularSeleccionLocator = By.id("testId-pod-displaySubTitle-16741588");
     private By botonAgregarAlCarroLocator = By.id("buttonForCustomers");
     private By botonLiberadoLocator = By.id("testId-Operator-Liberado");
     private By botonIrAlCarro = By.id("linkButton");

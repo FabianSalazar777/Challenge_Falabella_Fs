@@ -21,6 +21,7 @@ public class ChromeDriverManager extends DriverManager {
         options.addArguments("--incognito");
         options.addArguments("--disable-notifications");
         options.addArguments("--suppress-message-center-popups");
+        options.addArguments("--remote-allow-origins=*");
         options.merge(caps);
         driver = new ChromeDriver(options);
 
